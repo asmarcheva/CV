@@ -1,3 +1,3 @@
 # CV
 
-A place to see my CV!
+embed]http://example.com/file.pdf[/embed]
